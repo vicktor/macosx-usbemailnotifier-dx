@@ -1,0 +1,7 @@
+# Introduction #
+
+DealExtreme USB Email Notifier for MacOSX
+
+# Details #
+
+Control Deal Extreme USB Mail notifier from Mac OSX.
